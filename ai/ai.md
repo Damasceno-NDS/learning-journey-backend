@@ -26,7 +26,7 @@ A Inteligência Artificial é um ramo da Ciência da Computação focado na cria
 
 No início, os principais sistemas de IA eram baseados em regras: definia-se um conjunto de regras e, dados os parâmetros, uma delas seria acionada. Isso não parece nada *inteligente*, pois o sistema é "burro" e apenas segue regras. Depois, com a evolução do poder computacional e da memória, os modelos probabilísticos começaram a ganhar espaço, pois existem muitas situações do mundo real que não cabem em um conjunto razoável de regras. Com as *Redes Neurais*, sistemas foram construídos e treinados em grandes conjuntos de dados para que, probabilisticamente, dessem a resposta correta, com um percentual de confiança. Nesse ponto, os sistemas de IA eram impressionantes, mas pouco utilizáveis. Eventualmente, essas Redes Neurais foram ampliadas a tal ponto que receberam um novo nome, *Deep Learning*, e finalmente apresentaram resultados práticos com grande precisão (como 98%-99% para reconhecimento de imagens). Por fim, ao tentar criar um modelo geral, alguém deixou o computador treinando por semanas e esqueceu dele. Quando o cientista percebeu, descobriu um modelo capaz de gerar dados consistentes. Ele percebeu que, ao treinar em conjuntos de dados massivos (terabytes), esses modelos eram capazes de resultados notáveis. É daí que vêm os *Large Language Models (LLM)*.
 
-- [ ] *PT* Blog Datacamp [Como aprender IA do zero em 2026](https://www.datacamp.com/pt/blog/how-to-learn-ai)
+- [x] *PT* Blog Datacamp [Como aprender IA do zero em 2026](https://www.datacamp.com/pt/blog/how-to-learn-ai)
 - [ ] *EN* Tutorial W3Schools [Machine Learning](https://www.w3schools.com/ai/default.asp)
 
 ### When to use (and when not)
