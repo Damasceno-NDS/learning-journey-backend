@@ -35,7 +35,7 @@ Don't be fooled by the hype in the news and advertisements. You, the human, are 
 
 Não se deixe enganar pelo hype das notícias e dos anúncios. Você, o humano, ainda é essencial. No entanto, se quiser continuar sendo essencial, precisa ser melhor do que um assistente de IA. Você precisa ser humano e pensar como humano. Só assim estará pronto para usar a IA como uma ferramenta, como um assistente, como algo para ajudá-lo. Aprenda quando é apropriado usar IA e quando não é. Pense nisso: quão útil seria se eu lhe desse um robô que vai à academia por você?
 
-- [ ] *EN* [University graduates boo commencement speaker for calling AI 'next industrial revolution'](https://www.youtube.com/shorts/3Lh2gg0mFNI)
+- [x] *EN* [University graduates boo commencement speaker for calling AI 'next industrial revolution'](https://www.youtube.com/shorts/3Lh2gg0mFNI)
 - [ ] *EN* Blog One Useful Thing [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
 - [ ] *EN* *PT* Video Google [When to use generative AI vs. traditional AI vs. no AI](https://www.youtube.com/watch?v=ih1sUFWAgxU)
 - [ ] *PT* Document Google [Quando usar IA generativa ou IA tradicional](https://docs.cloud.google.com/docs/ai-ml/generative-ai/generative-ai-or-traditional-ai?hl=pt-br)
